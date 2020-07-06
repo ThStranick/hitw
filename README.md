@@ -1,3 +1,9 @@
+# Hole In The Wall: VR + Kinect
+
+This project aims to integrate the body tracking of the Kinect with the visual enhancement from the Oculus headset. This is in the medium of a full body movement game called Hole in the Wall where the user must contort their body to match the shapes cut out from the wall moving towards them. It also will help observe whether VR improves a persons preformance when it comes to completing such a task.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThStranick/hitw/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
